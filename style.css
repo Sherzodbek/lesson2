@@ -1,0 +1,53 @@
+body{
+	font-family: 'Oswald', sans-serif;
+	background-color: #fff;
+	padding: 0;
+	margin: 0;
+	height: 100%;
+
+}
+
+
+
+#wrapper{
+	padding-top: 16px;
+	height: 40px;
+	background-color: #5FAD56;
+	text-align: center;
+	font-weight: bold;
+	color: white;
+
+}
+
+.lenta{
+	text-align: center;
+	color: #efefef;
+	background-color: #efefef;
+	line-height: 6.82vh;
+	height: 6.82vh;
+	transition: all 0.2s linear;
+}
+
+.lenta-1:hover{
+	background-color: red;
+}
+
+.lenta-2:hover{
+	background-color: green;
+}
+
+.lenta-3:hover{
+	background-color: yellow;
+}
+
+.lenta-4:hover{
+	background-color: #36340A;
+}
+
+.lenta-5:hover{
+	background-color: #BA61B5;
+}
+
+.lenta-6:hover{
+	background-color: #B4436C;
+}
